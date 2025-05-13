@@ -38,4 +38,4 @@ This will generate a UK map with a width of 100 characters, height of 30 charact
 ## Data Source
 The script uses UK postcode data from GitHub for generating the map. The data is downloaded and cached locally for future use.
 
-Link: https://github.com/dwyl/uk-postcodes-latitude-longitude-omplete-csv/raw/master/ukpostcodes.csv.zip
+Link: [https://github.com/dwyl/uk-postcodes-latitude-longitude-omplete-csv/raw/master/ukpostcodes.csv.zip](https://github.com/dwyl/uk-postcodes-latitude-longitude-complete-csv/tree/master)
